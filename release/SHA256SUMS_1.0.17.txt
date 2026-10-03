@@ -1,0 +1,2 @@
+faa546c322ba5cf9983f172f7794c2fba818f06933aa87dd478ac5f3ca89ddff  HudBrowse_1.0.17_x64.exe
+095c46e3069d10d8b84e0d7cfb26f6cdca81f5374b429c699e9b907178c945af  HudBrowse_1.0.17_x64-setup.exe

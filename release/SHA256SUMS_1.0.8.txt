@@ -1,0 +1,2 @@
+6dd855a322ce059f98be7ab4e28e5ec658e2f4a0ecd03ee3611eaeaae6d97bf8  HudBrowse_1.0.8_x64-setup.exe
+1b1138495786d1220a44c120934e9fb643fb15fc7c669d18348b6cdc64ed3a20  HudBrowse_1.0.8_x64.exe

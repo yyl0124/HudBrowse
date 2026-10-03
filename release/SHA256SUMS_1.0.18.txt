@@ -1,0 +1,2 @@
+66a666e3fc810c62a8a72f5faad3273b546e8fb677eeeec6b97baca81b3228a2  HudBrowse_1.0.18_x64.exe
+e7a78218966145628f40f40b913bc32fbf61d36ab706af69fd31f63e3e29bee8  HudBrowse_1.0.18_x64-setup.exe

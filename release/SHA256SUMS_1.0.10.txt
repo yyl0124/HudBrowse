@@ -1,0 +1,2 @@
+f87cd49df74d44739cdefb20a1de8fd31b04c146f4c7c2efbe756445e1b4346a  HudBrowse_1.0.10_x64-setup.exe
+e6d8a912a9ebd54d90f1a91a6d84dbc21f2783933ee69a9a9c2c6cbd3ba233e6  HudBrowse_1.0.10_x64.exe
